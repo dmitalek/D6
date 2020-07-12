@@ -1,5 +1,5 @@
 Здравствуйте коллега!
-Необходимо клонировать репо git clone https://github.com/dmitalek/d6.git
+Необходимо клонировать репо git clone https://github.com/dmitalek/d6
 cd conf
 Установить зависимости pip3 install -r requiremens.txt
 Выполнить миграции python manage.py makemigrations
